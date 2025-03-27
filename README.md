@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681827942724/9aad4026-75d9-4464-9207-6f53316dd873.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" width="500px"/>
   <br>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+CSE+Undergraduate+Student;I'm+a+Hardcore+Competitive+Programmer;I'm+a+Critical+Thinker;I+am+a+part+time+Guitarist+&+Gamer;"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+CSE+Undergraduate+Student;I'm+a+Competitive+Programmer;I'm+a+Critical+Thinker;I+am+a+part+time+Guitarist+&+Gamer;"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aronyo27&label=Profile%20views&color=0e75b6&style=flat" alt="aronyo27" /> </p>

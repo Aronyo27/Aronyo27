@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronyo27" alt="aronyo27" /></a> </p>
 
-### I’m currently studying on **Patuakhali Science and Tecnology University**
+### 🧩 I’m interested in Competitive Programming & Game Development .
 
 ### 🌱 I’m currently learning
 - DSA
